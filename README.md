@@ -1,4 +1,4 @@
-## Hi there 👋
+## You should be failing. “If things are not failing, you are not innovating enough.”
 
 <!--
 **rgunczer/rgunczer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
